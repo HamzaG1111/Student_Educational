@@ -1,0 +1,26 @@
+# Selenium Preparation Guide
+
+## Required Readings and References
+- [Video 1](https://www.youtube.com/watch?v=650PFmEgCbM)
+- [Video 2](https://www.youtube.com/watch?v=67cPpXrLS4I)
+- [Video 3](https://www.youtube.com/watch?v=dam0GPOAvVI)
+
+## Language Used
+FOr this lab, I have used Python but other languages can also be used.
+
+## Introduction to Robot Framework
+Robot framework is an automation framework designed for acceptance testing. It is keyword-driven, meaning tests are written using simple, readable keywords that describe actions and verifications.
+
+- Open source automatic framework
+- Used for acceptance testing
+- Keyword-driven (human-readable)
+- Preferred for its simplicity
+- Preferred by developers and non-technical testers
+
+## Setup and Installations Required
+Steps to set up and install Robot Framework:
+1. Install Python.
+2. Install pip.
+3. Use pip to install Robot Framework:
+   ```bash
+   pip install robotframework
